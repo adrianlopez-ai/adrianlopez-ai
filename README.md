@@ -1,16 +1,70 @@
-- 👋 Hi, I’m @adrianlopez-ai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Numero regional de estudiante: 1549573
-- “primer commit"
+# ¡Hola! Me llamo Adrián.
 
-- 
+### Estudiante de Grado Superior Daw
+![programacion](./images/programacion.png)
 
-<!---
-adrianlopez-ai/adrianlopez-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Asignaturas Matriculadas
+
+-Entornos de Desarrollo
+-Programación
+-Lenguaje de Marcas
+-Sistemas informáticos.
+-Ingles profesional.
+-Bases de Datos.
+-Itinerario para la empleabilidad.
+-Digitalización Aplicada al sistema productivo.
+
+
+
+### Stack Tecnológico Conocido
+
+-HTML
+-CSS
+-VSCode
+-Eclipse
+
+### Stack Tecnológico del Curso
+
+-Framesworks
+- Angular :
+- Vue.js
+- Django
+- Express
+
+- Bases de datos:
+- MySql
+- Docker
+
+
+-Programación 
+-java
+-python
+
+-Lenguaje de Marcas:
+-Markdown
+-XML
+-HTML
+-CSS
+-JavaScript
+
+
+
+### Preferencias Tecnológicas
+
+-Full-Stack
+
+-Motivos: 
+De momento he decido ser full-stack porque no se cuales son realidades de programar en Back o en Front así que esperare a más adelante para decidirlo, pero estudiare primero Front.
+
+
+
+###Otras habilidades o actividades de utilidad.
+
+-Inglés B2
+-Aficionado a la historia.
+-Deportista.
+
+
+
+
