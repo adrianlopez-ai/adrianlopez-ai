@@ -54,7 +54,7 @@ Bases de datos:
 
 ### Preferencias Tecnológicas 💡
 
--Full-Stack 🚀
+- Full-Stack 🚀
 
 
 ###Otras habilidades o actividades de utilidad  🛠️
