@@ -35,7 +35,7 @@ Framesworks:
 - Express
 
 Bases de datos:
-  MySql
+- MySql
 - Docker
 
 
