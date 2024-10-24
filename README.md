@@ -12,8 +12,6 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 
 ## Asignaturas Matriculadas 📖
 
-
-
 | Asignatura                         | Descripción                                                               |
 |---------------------------         |---------------------------------------------------------------------------|
 | Entornos de Desarrollo 🛠️          |Conocimiento sobre el entorno y las herramientas de desarrollo de software.|
@@ -24,7 +22,6 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 | **Bases de Datos** 🗄️              |Diseño y gestión de *bases de datos relaciones*.                           |
 | ~~Itinerario para la empleabilidad~~ |~~📈 Preparación para la inserción laboral~~.                             |
 | Digitalización Aplicada al sistema productivo 🌐 |Implementación de tecnologías en el entorno productivo.       |
-
 
 ##  Asignaturas del año pasado
 
@@ -39,8 +36,6 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
    - Fol.
    - Empresa
  
-
-
 ## Stack Tecnológico Conocido 🛠️
 
 - **HTML** 📝
@@ -48,9 +43,7 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 - **VSCode** 🖥️
 - **Eclipse** 🌑
 
-
 ## Stack Tecnológico del Curso  🛠️
-
 
 ### 1.Framesworks: 
 
@@ -77,19 +70,17 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
  - CSS 🎨
  - JavaScript ⚡
 
-
 # Preferencias Tecnológicas 💡
 
 - Full-Stack 🚀
 - **Automatizar negocios propios con IA**  🧠 
-
 
 ## Otras habilidades o actividades de utilidad  🛠️
 
 - Inglés B2  🇬🇧
 - Aficionado a la historia 📜
 
-## En mi tiempo libre(entre otras cosas)
+## En mi tiempo libre(entre otras cosas)  🕒
 
 - Aficionado a la historia 📜
 - Deportista 🏋️
