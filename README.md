@@ -34,24 +34,24 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 ## Stack Tecnológico del Curso  🛠️
 
 
-### Framesworks: 
+### -Framesworks: 
 
 - Angular ⚙️
 - Vue.js 🖼️
 - Django  🐍
 - Express 🏗️
 
-### Bases de datos: 
+### -Bases de datos: 
 
 - MySql 🗄️
 - Docker 🐳
 
-### Programación 
+### -Programación 
 
 - java  ☕
 - python  🐍
 
-### Lenguaje de Marcas:
+### -Lenguaje de Marcas:
 
 - Markdown 📝
 - XML  🗂️
