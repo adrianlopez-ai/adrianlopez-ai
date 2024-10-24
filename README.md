@@ -28,14 +28,14 @@
 
 ## Stack Tecnológico del Curso
 
--Framesworks:
+Framesworks:
 - Angular 
 - Vue.js
 - Django
 - Express
 
--Bases de datos:
-- MySql
+Bases de datos:
+  MySql
 - Docker
 
 
