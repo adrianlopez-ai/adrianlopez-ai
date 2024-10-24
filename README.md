@@ -1,7 +1,7 @@
 # ¡Hola! Me llamo Adrián.
 
 ### Estudiante de Grado Superior Daw
-![programacion](./images/programacion.png)
+programacion.png
 
 
 ## Asignaturas Matriculadas
