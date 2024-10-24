@@ -95,53 +95,53 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
     Noli timere adversa, amplectere viam,<br>
     quia audacia est potentia divina.</p>
 
-    <p>Contendere dubium artem est,<br>
-    iter quod incipit cum corde tuo.<br>
-    Umbras timere potest, sed non retardant,<br>
-    lux animi tui pura est emotio.</p>
+    Contendere dubium artem est,<
+    iter quod incipit cum corde tuo.
+    Umbras timere potest, sed non retardant,
+    lux animi tui pura est emotio.
 
-    <p>Obices sunt tantum scalae,<br>
-    ad destinatum quod tu somniasti.<br>
-    Quotquot lapsus, magister est,<br>
-    quotquot errores, sapientiae legatum.</p>
+    Obices sunt tantum scalae,
+    ad destinatum quod tu somniasti.
+    Quotquot lapsus, magister est,
+    quotquot errores, sapientiae legatum.
 
-    <p>Audaces sunt qui eligunt progredi,<br>
-    qui unum gradum addunt, qui audeant somniare.<br>
-    In coniunctione conatus et passionis,<br>
-    magnitudo formatur, ratio formatur.</p>
+    Audaces sunt qui eligunt progredi,
+    qui unum gradum addunt, qui audeant somniare.
+    In coniunctione conatus et passionis,
+    magnitudo formatur, ratio formatur.
 
-    <p>Itaque progredere, sine metu defectus,<br>
-    audacia tua est motor qui te ducit.<br>
-    Cum omni actione, cum omni complexu,<br>
-    facis mundum locum ubi elevari possit.</p>
+    Itaque progredere, sine metu defectus,
+    audacia tua est motor qui te ducit.
+    Cum omni actione, cum omni complexu,
+    facis mundum locum ubi elevari possit.
 
-    <hr>
+    
 
-    <h2>Valentía: Un Llamado a la Acción</h2>
-    <p>Cada paso que das, valiente y firme,<br>
-    es un eco en la vida que nos anima.<br>
-    No temas al reto, abraza el camino,<br>
-    porque la valentía es fuerza divina.</p>
+    Valentía: Un Llamado a la Acción<
+    Cada paso que das, valiente y firme,
+    es un eco en la vida que nos anima.
+    No temas al reto, abraza el camino,
+    porque la valentía es fuerza divina.
 
-    <p>Enfrentar la duda es un arte,<br>
-    es un viaje que comienza con el corazón.<br>
-    Las sombras pueden asustar, pero no detienen,<br>
-    la luz de tu espíritu es pura emoción.</p>
+    Enfrentar la duda es un arte,
+    es un viaje que comienza con el corazón.
+    Las sombras pueden asustar, pero no detienen,
+    la luz de tu espíritu es pura emoción.
 
-    <p>Los obstáculos son solo escalones,<br>
-    hacia el destino que tú has soñado.<br>
-    Cada tropiezo es un maestro,<br>
-    cada error, un sabio legado.</p>
+    Los obstáculos son solo escalones,
+    hacia el destino que tú has soñado.
+    Cada tropiezo es un maestro,
+    cada error, un sabio legado.
 
-    <p>Valientes son aquellos que eligen avanzar,<br>
-    que dan un paso más, que se atreven a soñar.<br>
-    En la unión del esfuerzo y la pasión,<br>
-    se forja la grandeza, se forja la razón.</p>
+    Valientes son aquellos que eligen avanzar,
+    que dan un paso más, que se atreven a soñar.
+    En la unión del esfuerzo y la pasión,
+    se forja la grandeza, se forja la razón.
 
-    <p>Así que sigue, sin miedo al fracaso,<br>
-    tu valentía es el motor que te lleva.<br>
-    Con cada acción, con cada abrazo,<br>
-    haces del mundo un lugar donde se eleva.</p>
+    Así que sigue, sin miedo al fracaso,
+    tu valentía es el motor que te lleva.
+    Con cada acción, con cada abrazo,
+    haces del mundo un lugar donde se eleva.
   </blockquote>
 </div>
 
