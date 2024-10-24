@@ -6,7 +6,7 @@
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
-## Asignaturas Matriculadas
+### Asignaturas Matriculadas
 
 -Entornos de Desarrollo
 -Programación
@@ -19,14 +19,14 @@
 
 
 
-### Stack Tecnológico Conocido
+## Stack Tecnológico Conocido
 
 -HTML
 -CSS
 -VSCode
 -Eclipse
 
-### Stack Tecnológico del Curso
+## Stack Tecnológico del Curso
 
 -Framesworks
 - Angular :
@@ -55,10 +55,6 @@
 ### Preferencias Tecnológicas
 
 -Full-Stack
-
--Motivos: 
-De momento he decido ser full-stack porque no se cuales son realidades de programar en Back o en Front así que esperare a más adelante para decidirlo, pero estudiare primero Front.
-
 
 
 ###Otras habilidades o actividades de utilidad.
