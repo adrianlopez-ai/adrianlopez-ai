@@ -2,7 +2,7 @@
 
 
 ### Centro de Estudios 📚
-Estoy estudiando en el [Centro Integral de Formación Profesional a Distancia "IES LOS ALBARES (Cieza)"](https://www.ieslosalbares.es/laconservera/)  -Región de Murcia🏫
+Estoy estudiando en el Centro Integral de Formación Profesional a Distancia IES LOS ALBARES (Cieza) `https://www.ieslosalbares.es/laconservera/`  -Región de Murcia🏫
 
 
 ## Grado Académico 🎓 
