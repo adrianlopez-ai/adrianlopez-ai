@@ -1,7 +1,7 @@
 # ¡Hola! Me llamo Adrián.
 
 ### Estudiante de Grado Superior Daw
-programacion.png
+![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
 ## Asignaturas Matriculadas
