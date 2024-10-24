@@ -21,15 +21,15 @@
 
 ## Stack Tecnológico Conocido
 
--HTML
--CSS
--VSCode
--Eclipse
+- HTML
+- CSS
+- VSCode
+- Eclipse
 
 ## Stack Tecnológico del Curso
 
 -Framesworks
-- Angular :
+- Angular 
 - Vue.js
 - Django
 - Express
