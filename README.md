@@ -5,7 +5,9 @@ Estoy estudiando en el [Centro Integral de Formación Profesional a Distancia "I
 
 
 
-## Y soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍🎓
+## Grado Académico 🎓 
+Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍🎓
+
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
