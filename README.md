@@ -90,59 +90,60 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 <div align="center">
   <blockquote>
     <h2>Audacia: Vocatio ad Actum</h2>
-    <p>Quotquot passus facis, audax et firmus,<br>
+    Quotquot passus facis, audax et firmus,<br>
     est echo in vita quae nos alit.<br>
     Noli timere adversa, amplectere viam,<br>
-    quia audacia est potentia divina.</p>
+    quia audacia est potentia divina.<br><br>
 
-    Contendere dubium artem est,<
-    iter quod incipit cum corde tuo.
-    Umbras timere potest, sed non retardant,
-    lux animi tui pura est emotio.
+    Contendere dubium artem est,<br>
+    iter quod incipit cum corde tuo.<br>
+    Umbras timere potest, sed non retardant,<br>
+    lux animi tui pura est emotio.<br><br>
 
-    Obices sunt tantum scalae,
-    ad destinatum quod tu somniasti.
-    Quotquot lapsus, magister est,
-    quotquot errores, sapientiae legatum.
+    Obices sunt tantum scalae,<br>
+    ad destinatum quod tu somniasti.<br>
+    Quotquot lapsus, magister est,<br>
+    quotquot errores, sapientiae legatum.<br><br>
 
-    Audaces sunt qui eligunt progredi,
-    qui unum gradum addunt, qui audeant somniare.
-    In coniunctione conatus et passionis,
-    magnitudo formatur, ratio formatur.
+    Audaces sunt qui eligunt progredi,<br>
+    qui unum gradum addunt, qui audeant somniare.<br>
+    In coniunctione conatus et passionis,<br>
+    magnitudo formatur, ratio formatur.<br><br>
 
-    Itaque progredere, sine metu defectus,
-    audacia tua est motor qui te ducit.
-    Cum omni actione, cum omni complexu,
-    facis mundum locum ubi elevari possit.
+    Itaque progredere, sine metu defectus,<br>
+    audacia tua est motor qui te ducit.<br>
+    Cum omni actione, cum omni complexu,<br>
+    facis mundum locum ubi elevari possit.<br><br>
 
-    
+    <hr>
 
-    Valentía: Un Llamado a la Acción<
-    Cada paso que das, valiente y firme,
-    es un eco en la vida que nos anima.
-    No temas al reto, abraza el camino,
-    porque la valentía es fuerza divina.
+    <h2>Valentía: Un Llamado a la Acción</h2>
+    Cada paso que das, valiente y firme,<br>
+    es un eco en la vida que nos anima.<br>
+    No temas al reto, abraza el camino,<br>
+    porque la valentía es fuerza divina.<br><br>
 
-    Enfrentar la duda es un arte,
-    es un viaje que comienza con el corazón.
-    Las sombras pueden asustar, pero no detienen,
-    la luz de tu espíritu es pura emoción.
+    Enfrentar la duda es un arte,<br>
+    es un viaje que comienza con el corazón.<br>
+    Las sombras pueden asustar, pero no detienen,<br>
+    la luz de tu espíritu es pura emoción.<br><br>
 
-    Los obstáculos son solo escalones,
-    hacia el destino que tú has soñado.
-    Cada tropiezo es un maestro,
-    cada error, un sabio legado.
+    Los obstáculos son solo escalones,<br>
+    hacia el destino que tú has soñado.<br>
+    Cada tropiezo es un maestro,<br>
+    cada error, un sabio legado.<br><br>
 
-    Valientes son aquellos que eligen avanzar,
-    que dan un paso más, que se atreven a soñar.
-    En la unión del esfuerzo y la pasión,
-    se forja la grandeza, se forja la razón.
+    Valientes son aquellos que eligen avanzar,<br>
+    que dan un paso más, que se atreven a soñar.<br>
+    En la unión del esfuerzo y la pasión,<br>
+    se forja la grandeza, se forja la razón.<br><br>
 
-    Así que sigue, sin miedo al fracaso,
-    tu valentía es el motor que te lleva.
-    Con cada acción, con cada abrazo,
+    Así que sigue, sin miedo al fracaso,<br>
+    tu valentía es el motor que te lleva.<br>
+    Con cada acción, con cada abrazo,<br>
     haces del mundo un lugar donde se eleva.
   </blockquote>
 </div>
+
 
 
