@@ -1,6 +1,6 @@
-# ¡Hola! Me llamo Adrián.
+# ¡Hola! Me llamo Adrián 🖖
 
-### Estudiante de Grado Superior Daw
+### Y soy Estudiante de Grado Superior Daw
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
