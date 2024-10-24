@@ -29,9 +29,9 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 ##  Asignaturas del año pasado
 
 - Dificiles *Bajo mi opinión*
- - Sistemas informaticos
- - Programación
- - Bases da datos
+  - Sistemas informaticos
+  - Programación
+   - Bases da datos
 
 - Faciles *Bajo mi opinión*
  - Entornos.
