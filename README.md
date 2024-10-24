@@ -2,11 +2,11 @@
 
 
 ### Centro de Estudios 📚
-Estoy estudiando en el Centro Integral de Formación Profesional a [Distancia IES LOS ALBARES (Cieza)] (https://www.ieslosalbares.es/laconservera/)  -Región de Murcia🏫
+Estoy estudiando en el Centro Integral de Formación Profesional a [Distancia IES LOS ALBARES (Cieza](https://www.ieslosalbares.es/laconservera/)  -Región de Murcia🏫
 
 
 ## Grado Académico 🎓 
-Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍🎓
+Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍🎓
 
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
@@ -18,7 +18,7 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 - Lenguaje de Marcas 📝: Uso de HTML, XML y otros lenguajes de marcado.
 - Sistemas informáticos 🖥️ : Administración y configuración de sistemas. 
 - Ingles profesional 🇬🇧 : Inglés técnico orientado al ámbito profesional.
-- Bases de Datos 🗄️: Diseño y gestión de bases de datos.
+- **Bases de Datos** 🗄️: Diseño y gestión de *bases de datos relaciones*.
 - Itinerario para la empleabilidad 📈: Preparación para la inserción laboral.
 - Digitalización Aplicada al sistema productivo 🌐: Implementación de tecnologías en el entorno productivo.
 
@@ -34,36 +34,36 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 ## Stack Tecnológico del Curso  🛠️
 
 
-### -Framesworks: 
+### Framesworks: 
 
 - Angular ⚙️
 - Vue.js 🖼️
 - Django  🐍
 - Express 🏗️
 
-### -Bases de datos: 
+### Bases de datos: 
 
 - MySql 🗄️
 - Docker 🐳
 
-### -Programación 
+### Programación 
 
 - java  ☕
 - python  🐍
 
-### -Lenguaje de Marcas:
+### Lenguaje de Marcas:
 
 - Markdown 📝
 - XML  🗂️
 - HTML 🌐
-- CSS🎨
+- CSS 🎨
 - JavaScript ⚡
 
 
 # Preferencias Tecnológicas 💡
 
 - Full-Stack 🚀
-- Automatizar negocios propios con IA  🧠 
+- **Automatizar negocios propios con IA**  🧠 
 
 
 ## Otras habilidades o actividades de utilidad  🛠️
