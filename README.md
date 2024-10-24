@@ -7,61 +7,61 @@
 
 
 ### Asignaturas Matriculadas 📖
+ 
+-Entornos de Desarrollo 🛠️
+-Programación 💻
+-Lenguaje de Marcas 📝
+-Sistemas informáticos 🖥️ 
+-Ingles profesional 🇬🇧
+-Bases de Datos 🗄️
+-Itinerario para la empleabilidad 📈
+-Digitalización Aplicada al sistema productivo 🌐
 
--Entornos de Desarrollo
--Programación
--Lenguaje de Marcas
--Sistemas informáticos.
--Ingles profesional.
--Bases de Datos.
--Itinerario para la empleabilidad.
--Digitalización Aplicada al sistema productivo.
 
 
+## Stack Tecnológico Conocido 🛠️
 
-## Stack Tecnológico Conocido
+- HTML 📝
+- CSS 
+- VSCode 🖥️
+- Eclipse 🌑
 
-- HTML
-- CSS
-- VSCode
-- Eclipse
+## Stack Tecnológico del Curso  🛠️
 
-## Stack Tecnológico del Curso
+Framesworks: 
+- Angular ⚙️
+- Vue.js 🖼️
+- Django 
+- Express 🏗️
 
-Framesworks:
-- Angular 
-- Vue.js
-- Django
-- Express
-
-Bases de datos:
-- MySql
-- Docker
+Bases de datos: 
+- MySql 🗄️
+- Docker 
 
 
 -Programación 
-- java
+- java  ☕
 - python
 
 -Lenguaje de Marcas:
-- Markdown
+- Markdown 📝
 - XML
-- HTML
-- CSS
+- HTML 🌐
+- CSS🎨
 - JavaScript
 
 
 
-### Preferencias Tecnológicas
+### Preferencias Tecnológicas 💡
 
--Full-Stack
+-Full-Stack 🚀
 
 
-###Otras habilidades o actividades de utilidad.
+###Otras habilidades o actividades de utilidad  🛠️
 
 - Inglés B2
-- Aficionado a la historia.
-- Deportista.
+- Aficionado a la historia 📜
+- Deportista 🏋️
 
 
 
