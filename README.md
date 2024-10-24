@@ -69,9 +69,13 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 ## Otras habilidades o actividades de utilidad  🛠️
 
 - Inglés B2  🇬🇧
+  - Aficionado a la historia 📜
+
+## En mi tiempo libre(entre otras cosas)
+
 - Aficionado a la historia 📜
 - Deportista 🏋️
-
-
+- Videojuegos.
+- Socializar.
 
 
