@@ -25,10 +25,10 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 
 ## Stack Tecnológico Conocido 🛠️
 
-- HTML 📝
-- CSS  🎨
-- VSCode 🖥️
-- Eclipse 🌑
+- **HTML** 📝
+- **CSS**  🎨
+- **VSCode** 🖥️
+- **Eclipse** 🌑
 
 
 ## Stack Tecnológico del Curso  🛠️
