@@ -28,27 +28,27 @@
 
 ## Stack Tecnológico del Curso
 
--Framesworks
+-Framesworks:
 - Angular 
 - Vue.js
 - Django
 - Express
 
-- Bases de datos:
+-Bases de datos:
 - MySql
 - Docker
 
 
 -Programación 
--java
--python
+- java
+- python
 
 -Lenguaje de Marcas:
--Markdown
--XML
--HTML
--CSS
--JavaScript
+- Markdown
+- XML
+- HTML
+- CSS
+- JavaScript
 
 
 
@@ -59,9 +59,9 @@
 
 ###Otras habilidades o actividades de utilidad.
 
--Inglés B2
--Aficionado a la historia.
--Deportista.
+- Inglés B2
+- Aficionado a la historia.
+- Deportista.
 
 
 
