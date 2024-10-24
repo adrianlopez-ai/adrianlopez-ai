@@ -24,7 +24,7 @@ https://www.ieslosalbares.es/laconservera/
 ## Stack Tecnológico Conocido 🛠️
 
 - HTML 📝
-- CSS 
+- CSS  🎨
 - VSCode 🖥️
 - Eclipse 🌑
 
@@ -33,7 +33,7 @@ https://www.ieslosalbares.es/laconservera/
 Framesworks: 
 - Angular ⚙️
 - Vue.js 🖼️
-- Django 
+- Django  🐍
 - Express 🏗️
 
 Bases de datos: 
@@ -43,11 +43,11 @@ Bases de datos:
 
 -Programación 
 - java  ☕
-- python
+- python  🐍
 
 -Lenguaje de Marcas:
 - Markdown 📝
-- XML
+- XML  🗂️
 - HTML 🌐
 - CSS🎨
 - JavaScript
@@ -61,7 +61,7 @@ Bases de datos:
 
 ###Otras habilidades o actividades de utilidad  🛠️
 
-- Inglés B2
+- Inglés B2  🇬🇧
 - Aficionado a la historia 📜
 - Deportista 🏋️
 
