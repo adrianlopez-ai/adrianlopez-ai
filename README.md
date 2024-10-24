@@ -22,7 +22,7 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 | Sistemas informáticos 🖥️           |Administración y configuración de sistemas.                                |
 | Ingles profesional 🇬🇧              |Inglés técnico orientado al ámbito profesional.                            |
 | **Bases de Datos** 🗄️              |Diseño y gestión de *bases de datos relaciones*.                           |
-| ~~Itinerario para la empleabilidad~~ |📈 Preparación para la inserción laboral.                                |
+| ~~Itinerario para la empleabilidad~~ |~~📈 Preparación para la inserción laboral~~.                             |
 | Digitalización Aplicada al sistema productivo 🌐 |Implementación de tecnologías en el entorno productivo.       |
 
 
