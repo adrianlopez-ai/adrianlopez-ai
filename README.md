@@ -12,6 +12,7 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 
 
 ## Asignaturas Matriculadas 📖
+Como soy repetidor asignaturas que me resultan más faciles serán programación, Bases de Datos y entornos.
 
 | Asignatura                         | Descripción                                                               |
 |---------------------------         |---------------------------------------------------------------------------|
