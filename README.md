@@ -11,7 +11,7 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
-### Asignaturas Matriculadas 📖
+## Asignaturas Matriculadas 📖
  
 -Entornos de Desarrollo 🛠️: Conocimiento sobre el entorno y las herramientas de desarrollo de software.
 -Programación 💻: Fundamentos de programación en varios lenguajes.
@@ -57,14 +57,14 @@ Bases de datos:
 
 
 
-### Preferencias Tecnológicas 💡
+# Preferencias Tecnológicas 💡
 
 - Full-Stack 🚀
 - Automatizar negocios propios con IA.
   
 
 
-### Otras habilidades o actividades de utilidad  🛠️
+## Otras habilidades o actividades de utilidad  🛠️
 
 - Inglés B2  🇬🇧
 - Aficionado a la historia 📜
