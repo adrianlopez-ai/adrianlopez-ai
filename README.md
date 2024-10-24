@@ -36,28 +36,28 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 
 ### 1.Framesworks: 
 
-- Angular ⚙️
-- Vue.js 🖼️
-- Django  🐍
-- Express 🏗️
+ - Angular ⚙️
+ - Vue.js 🖼️
+ - Django  🐍
+ - Express 🏗️
 
 ### 2.Bases de datos: 
 
-- MySql 🗄️
-- Docker 🐳
+ - MySql 🗄️
+ - Docker 🐳
 
 ### 3.Programación 
 
-- java  ☕
-- python  🐍
+ - java  ☕
+ - python  🐍
 
 ### 4.Lenguaje de Marcas:
 
-- Markdown 📝
-- XML  🗂️
-- HTML 🌐
-- CSS 🎨
-- JavaScript ⚡
+ - Markdown 📝
+ - XML  🗂️
+ - HTML 🌐
+ - CSS 🎨
+ - JavaScript ⚡
 
 
 # Preferencias Tecnológicas 💡
