@@ -1,12 +1,12 @@
-# ¡Hola! Me llamo Adrián 🖖
+# ¡Hola! Me llamo Adrián 👨‍💻
 
-### Estoy estudiando en el Centro Integral de Formación Profesional a Distancia "La Conservera" -Región de Murcia
+### Estoy estudiando en el Centro Integral de Formación Profesional a Distancia "La Conservera" -Región de Murcia🏫
 
-## Y soy Estudiante de Grado Superior Daw👨‍🎓
+## Y soy Estudiante de Grado Superior Daw 👨‍🎓
 ![](https://github.com/adrianlopez-ai/adrianlopez-ai/blob/main/programacion.png)
 
 
-### Asignaturas Matriculadas📖
+### Asignaturas Matriculadas 📖
 
 -Entornos de Desarrollo
 -Programación
