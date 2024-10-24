@@ -1,8 +1,8 @@
 # ¡Hola! Me llamo Adrián 👨‍💻
 
+
 ### Centro de Estudios 📚
 Estoy estudiando en el [Centro Integral de Formación Profesional a Distancia "IES LOS ALBARES (Cieza)"](https://www.ieslosalbares.es/laconservera/)  -Región de Murcia🏫
-
 
 
 ## Grado Académico 🎓 
@@ -23,7 +23,6 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 - Digitalización Aplicada al sistema productivo 🌐: Implementación de tecnologías en el entorno productivo.
 
 
-
 ## Stack Tecnológico Conocido 🛠️
 
 - HTML 📝
@@ -31,37 +30,40 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicadcion Web (DAW) 👨‍�
 - VSCode 🖥️
 - Eclipse 🌑
 
+
 ## Stack Tecnológico del Curso  🛠️
 
-Framesworks: 
+
+### Framesworks: 
+
 - Angular ⚙️
 - Vue.js 🖼️
 - Django  🐍
 - Express 🏗️
 
-Bases de datos: 
+### Bases de datos: 
+
 - MySql 🗄️
-- Docker 
+- Docker 🐳
 
+### Programación 
 
--Programación 
 - java  ☕
 - python  🐍
 
--Lenguaje de Marcas:
+### Lenguaje de Marcas:
+
 - Markdown 📝
 - XML  🗂️
 - HTML 🌐
 - CSS🎨
-- JavaScript
-
+- JavaScript ⚡
 
 
 # Preferencias Tecnológicas 💡
 
 - Full-Stack 🚀
-- Automatizar negocios propios con IA.
-  
+- Automatizar negocios propios con IA  🧠 
 
 
 ## Otras habilidades o actividades de utilidad  🛠️
