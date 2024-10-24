@@ -12,15 +12,17 @@ Soy Estudiante de Grado Superior en Desarrollo de Aplicacion Web (DAW) 👨‍�
 
 
 ## Asignaturas Matriculadas 📖
- 
-- Entornos de Desarrollo 🛠️: Conocimiento sobre el entorno y las herramientas de desarrollo de software.
-- Programación 💻: Fundamentos de programación en varios lenguajes.
-- Lenguaje de Marcas 📝: Uso de HTML, XML y otros lenguajes de marcado.
-- Sistemas informáticos 🖥️ : Administración y configuración de sistemas. 
-- Ingles profesional 🇬🇧 : Inglés técnico orientado al ámbito profesional.
-- **Bases de Datos** 🗄️: Diseño y gestión de *bases de datos relaciones*.
-- ~~Itinerario para la empleabilidad~~ 📈: Preparación para la inserción laboral.
-- Digitalización Aplicada al sistema productivo 🌐: Implementación de tecnologías en el entorno productivo.
+
+| Asignatura                         | Descripción                                                               |
+|---------------------------         |---------------------------------------------------------------------------|
+| Entornos de Desarrollo 🛠️          |Conocimiento sobre el entorno y las herramientas de desarrollo de software.|
+| Programación 💻                  |Fundamentos de programación en varios lenguajes.                             |
+| Lenguaje de Marcas 📝              |Uso de HTML, XML y otros lenguajes de marcado.                             |
+| Sistemas informáticos 🖥️           |Administración y configuración de sistemas.                                |
+| Ingles profesional 🇬🇧              |Inglés técnico orientado al ámbito profesional.                            |
+| **Bases de Datos** 🗄️              |Diseño y gestión de *bases de datos relaciones*.                           |
+| ~~Itinerario para la empleabilidad~~ |📈 Preparación para la inserción laboral.                                |
+| Digitalización Aplicada al sistema productivo 🌐 |Implementación de tecnologías en el entorno productivo.       |
 
 
 ## Stack Tecnológico Conocido 🛠️
